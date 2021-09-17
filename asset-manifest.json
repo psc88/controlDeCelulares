@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/psc88.github.io/controlDeCelulares/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/psc88.github.io/controlDeCelulares/static/js/main.ffec176f.chunk.js",
+    "main.js.map": "/psc88.github.io/controlDeCelulares/static/js/main.ffec176f.chunk.js.map",
+    "runtime-main.js": "/psc88.github.io/controlDeCelulares/static/js/runtime-main.3322bb34.js",
+    "runtime-main.js.map": "/psc88.github.io/controlDeCelulares/static/js/runtime-main.3322bb34.js.map",
+    "static/js/2.9c485d83.chunk.js": "/psc88.github.io/controlDeCelulares/static/js/2.9c485d83.chunk.js",
+    "static/js/2.9c485d83.chunk.js.map": "/psc88.github.io/controlDeCelulares/static/js/2.9c485d83.chunk.js.map",
+    "static/js/3.07563db8.chunk.js": "/psc88.github.io/controlDeCelulares/static/js/3.07563db8.chunk.js",
+    "static/js/3.07563db8.chunk.js.map": "/psc88.github.io/controlDeCelulares/static/js/3.07563db8.chunk.js.map",
+    "index.html": "/psc88.github.io/controlDeCelulares/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/psc88.github.io/controlDeCelulares/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9c485d83.chunk.js.LICENSE.txt": "/psc88.github.io/controlDeCelulares/static/js/2.9c485d83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3322bb34.js",
+    "static/js/2.9c485d83.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ffec176f.chunk.js"
+  ]
+}
